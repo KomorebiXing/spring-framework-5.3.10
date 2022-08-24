@@ -33,6 +33,8 @@ public class AppConfig1 {
 //	}
 
 
+
+
 //	@Bean
 //	public SqlSessionFactory sqlSessionFactory() throws Exception {
 //		SqlSessionFactoryBean sessionFactoryBean = new SqlSessionFactoryBean();
